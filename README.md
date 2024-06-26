@@ -1,4 +1,4 @@
-![brave_screenshot_blog-verse-navneetdeshta netlify app (7)](https://github.com/NavneetDeshtaa/BLOG-WEBSITE/assets/124466060/1585c6e7-7bec-4c0a-a265-1b7afbbce4fb) YOU CAN HAVE DEMO OF MY WEBSITE : https://blog-verse-navneetdeshta.netlify.app/
+YOU CAN HAVE DEMO OF MY WEBSITE : https://blog-verse-navneetdeshta.netlify.app/
 
 HERE ARE SOME SCREENSHOTS OF MY PROJECTS :
 
